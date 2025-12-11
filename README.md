@@ -1,4 +1,4 @@
-# Geodx Contacts + — Terms of Service
+# Geodx — Terms of Service
 
 **Last Updated:** December 11, 2025  
 
