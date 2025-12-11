@@ -1,186 +1,184 @@
-# geodx-terms
-Legal documents for GeoDX app by Hastati Ventures LLC
-# GeoDX Terms of Service and Privacy Policy  
+# Geodx Contacts + — Terms of Service
 
-Last Updated: December 11, 2025  
+**Last Updated:** December 11, 2024  
 
----
+These Terms of Service (“Terms”) govern your use of the Geodx Contacts + mobile application (the “App”), provided by **Hastati Ventures LLC**, a company based in Scottsdale, Arizona, USA (“Hastati Ventures,” “we,” “us,” or “our”).
 
-## Terms of Service  
-
-Welcome to GeoDX. By downloading, installing, or using our application, you agree to be bound by these Terms of Service. Please read them carefully before proceeding.  
-
-### 1. Acceptance of Terms  
-
-By accessing or using GeoDX, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree to these terms, you must not use the application.  
-
-### 2. Description of Service  
-
-GeoDX is a contact management and networking tool that allows users to organize, visualize, and manage their professional and personal contacts based on geographic location and relationship dynamics. The application provides features including but not limited to:  
-
-Geographic organization and visualization of contacts  
-Contact import from device address book  
-Relationship tracking and Vibe categorization  
-Map-based contact exploration  
-Note-taking and timeline features  
-Premium subscription features  
-
-### 3. User Eligibility  
-
-You must be at least 17 years of age to use GeoDX. By using this application, you represent and warrant that you meet this age requirement and have the legal capacity to enter into these Terms.  
-
-### 4. User Responsibilities  
-
-You are responsible for:  
-
-Maintaining the confidentiality of your data  
-Ensuring you have the right to store contact information  
-Using the application in compliance with all applicable laws  
-Not using the application for any unlawful purposes  
-
-### 5. Subscription & Payments  
-
-GeoDX offers premium subscription plans (GeoDX Pro) that provide access to enhanced features. Subscriptions are billed through the Apple App Store and are subject to Apple's terms and conditions. By subscribing, you agree to:  
-
-Payment will be charged to your Apple ID account at confirmation of purchase  
-Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period  
-Your account will be charged for renewal within 24 hours prior to the end of the current period  
-You can manage and cancel your subscriptions in your Apple ID account settings  
-No refunds will be provided for any unused portion of a subscription term  
-
-### 6. Intellectual Property  
-
-All content, features, and functionality of GeoDX, including but not limited to text, graphics, logos, icons, images, and software, are the exclusive property of GeoDX and are protected by international copyright, trademark, and other intellectual property laws.  
-
-### 7. Limitation of Liability  
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, GEODX AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APPLICATION.  
-
-### 8. Disclaimer of Warranties  
-
-THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  
-
-### 9. Termination  
-
-We reserve the right to terminate or suspend your access to the application at any time, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms.  
-
-### 10. Changes to Terms  
-
-We reserve the right to modify these Terms at any time. We will notify users of any material changes through the application. Your continued use of GeoDX after such modifications constitutes your acceptance of the updated Terms.  
+By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
 ---
 
-## Privacy Policy  
+## 1. Agreement to Terms
 
-Your privacy is critically important to us. This Privacy Policy explains how GeoDX collects, uses, and protects your information.  
+By downloading, installing, accessing, or using Geodx Contacts +, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you must immediately uninstall and stop using the App.
 
-### 1. Information We Collect  
+---
 
-Contact InformationWhen you choose to import contacts, we access and store the following information from your device's address book:  
+## 2. Description of Service
 
-Names (first and last)  
-Phone numbers  
-Email addresses  
-Company and job title information  
+Geodx Contacts + is a mobile application that allows users to:
 
-User-Generated ContentInformation you create within the app, including:  
+- Manage and organize contacts  
+- Import contacts from your device  
+- Add geographic location data to contacts  
+- View contacts on a map (“GeoFind”)  
+- Categorize contacts by “Vibes” and relationship types  
+- Add notes and timeline entries to contacts  
 
-Location data you assign to contacts  
-Relationship categorizations and Vibe settings  
-Notes and timeline entries  
-Tags and custom fields  
-Your profile information  
+Certain features or functionality may be added, modified, or removed over time at our discretion.
 
-Device InformationWe may collect device information for analytics and app functionality purposes, including device type and operating system version.  
+---
 
----  
+## 3. User Eligibility
 
-### 2. Data Storage & Security  
+You may use the App only if you:
 
-Local StorageGeoDX stores your data locally on your device using AsyncStorage, a secure, asynchronous, persistent key-value storage system. This means:  
+- Are at least **17 years old**, and  
+- Have the legal capacity to enter into a binding agreement under the laws applicable to you.  
 
-Your contact data remains on your device  
-Data is not transmitted to external servers without your explicit consent  
-Your data is protected by your device's security features (passcode, Face ID, Touch ID)  
-Uninstalling the app will permanently delete all locally stored data  
+By using the App, you represent and warrant that you meet these requirements.
 
-Why We Use Local StorageWe chose local storage to maximize your privacy and data security. Unlike cloud-based solutions:  
+---
 
-Your data is never stored on our servers  
-You maintain complete ownership and control of your information  
-There is no risk of data breaches from our systems  
-The app works offline with full functionality  
+## 4. User Data and Privacy
 
-Data BackupYour GeoDX data may be included in your device's iCloud or local backups if you have enabled these features. Please review your device's backup settings to understand how your data is being stored and protected.  
+### 4.1 Data Storage
 
----  
+- All contact data you create or import is stored **locally on your device**.  
+- We do **not** collect, transmit, or store your contact information on external servers.  
+- Your data remains under your control at all times, subject to your device’s own security and backup settings.
 
-### 3. Contact Access Permission  
+### 4.2 Device Permissions
 
-Why We Need AccessGeoDX requests access to your device's contacts to provide its core functionality. This permission allows us to:  
+- The App requests access to your device’s contacts solely to enable the contact import feature.  
+- This permission is **optional**; you may use the App without granting contacts access, though some features may be limited.  
+- We do not access your contacts without your explicit consent (e.g., granting contacts permission in your device settings).
 
-Import your existing contacts into the GeoDX database  
-Infer geographic locations based on phone number area codes  
-Enable you to organize and visualize your network geographically  
-Prevent duplicate contact entries  
+### 4.3 No Account Required
 
-Permission ControlYou have full control over this permission:  
+- The App does not require you to create a user account.  
+- No personal information is collected for registration or login purposes.
 
-You can deny the permission and still use the app with manually entered contacts  
-You can revoke access at any time through your device's Settings  
-We only read contact data; we never modify your device's address book  
+*For more detail on how we handle information, please refer to our separate Privacy Policy (if provided in-store or on our website).*
 
-Data ProcessingWhen you import contacts, we process phone numbers to infer geographic location based on area codes. This processing happens entirely on your device and no data is sent to external services for this purpose.  
+---
 
----  
+## 5. Subscription and Payments
 
-### 4. Third-Party Services  
+### 5.1 In-App Purchases
 
-RevenueCatWe use RevenueCat to manage subscriptions and in-app purchases. RevenueCat may collect:  
+- Certain features of the App may require a paid subscription or one-time in-app purchase.  
+- Subscriptions and purchases are processed through the **Apple App Store** and/or **Google Play Store** (collectively, the “App Stores”).  
+- Pricing and subscription terms are clearly displayed in the App Store before you complete a purchase.
 
-Anonymous user identifiers  
-Purchase history and subscription status  
-Device information for analytics  
+### 5.2 Billing
 
-Please review RevenueCat's privacy policy at https://www.revenuecat.com/privacy for more information.  
+- Payment will be charged to your App Store account (Apple ID or Google Play account) at the time of purchase.  
+- Subscriptions **automatically renew** unless cancelled at least 24 hours before the end of the current billing period.  
+- Your account will be charged for renewal within 24 hours prior to the end of the current period, at the then-current subscription price.  
+- You can manage or cancel subscriptions at any time in your device’s account settings (e.g., Apple ID or Google Play subscription settings).
 
-Map ServicesWe use mapping services to display contact locations. When you use map features, your device may communicate with these services to load map tiles and geocoding data.  
+### 5.3 Refunds
 
-Apple ServicesAs an iOS application, GeoDX uses various Apple services including:  
+- Refund requests are handled **exclusively** by Apple or Google according to their respective refund policies.  
+- We do not process refunds directly and cannot override App Store decisions.
 
-App Store for distribution and payments  
-Apple Maps for geographic visualization  
-iCloud for device backups (if enabled by user)  
+---
 
----  
+## 6. Acceptable Use
 
-### 5. Your Rights & Choices  
+You agree that you will **not**:
 
-Data Access & DeletionYou have the right to:  
+- Use the App for any unlawful, fraudulent, or harmful purpose.  
+- Use the App to store, transmit, or share malicious, abusive, or illegal content.  
+- Attempt to reverse engineer, decompile, or disassemble the App or any part of it.  
+- Interfere with or disrupt the App’s normal operation, servers, or networks.  
+- Attempt to gain unauthorized access to the App or related systems.
 
-Access all data stored in the application  
-Export your contact data from the app  
-Delete individual contacts or all data at any time  
-Uninstall the app to permanently remove all stored data  
+We reserve the right to take appropriate action (including suspension or termination of access) if we believe you are violating these obligations.
 
-California Privacy Rights (CCPA)California residents have additional rights including the right to know what personal information is collected, the right to delete personal information, and the right to opt-out of the sale of personal information. GeoDX does not sell personal information.  
+---
 
-European Privacy Rights (GDPR)If you are located in the European Economic Area, you have rights under GDPR including the right to access, rectification, erasure, restriction of processing, data portability, and the right to object to processing.  
+## 7. Intellectual Property
 
-Children's PrivacyGeoDX is not intended for children under 17 years of age. We do not knowingly collect personal information from children under 17. If we become aware that we have collected personal information from a child under 17, we will take steps to delete such information.  
+- The App, including its design, features, user interface, logos, graphics, text, and underlying software, is owned by **Hastati Ventures LLC** and is protected by copyright, trademark, and other intellectual property laws.  
+- You are granted a **limited, non-exclusive, non-transferable, revocable license** to use the App solely for your personal, non-commercial use, in accordance with these Terms.  
+- You may not copy, modify, distribute, sell, lease, or create derivative works based on any part of the App without our prior written consent.
 
----  
+---
 
-### Company Information  
+## 8. Disclaimer of Warranties
 
-GeoDX is owned and operated by Hastati Ventures LLC, located in Scottsdale, Arizona, USA.  
+THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
 
-### Contact Us  
+- IMPLIED WARRANTIES OF MERCHANTABILITY,  
+- FITNESS FOR A PARTICULAR PURPOSE, AND  
+- NON-INFRINGEMENT.  
 
-If you have any questions, concerns, or issues regarding these Terms of Service, our Privacy Policy, or the application, please contact us at:  
+WE DO NOT WARRANT THAT:
 
-HastatiVentures@Gmail.com  
+- THE APP WILL BE ERROR-FREE OR UNINTERRUPTED,  
+- DEFECTS WILL BE CORRECTED, OR  
+- THE APP OR THE SERVER(S) THAT MAKE IT AVAILABLE ARE FREE OF HARMFUL COMPONENTS.
 
-### Governing Law  
+---
 
-These Terms shall be governed by and construed in accordance with the laws of the State of Arizona and the United States, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of GeoDX shall be resolved in the courts located in Maricopa County, Arizona.  
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL HASTATI VENTURES LLC, ITS OWNERS, DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+- LOSS OF DATA OR CONTACTS,  
+- LOSS OF PROFITS, OR  
+- OTHER INTANGIBLE LOSSES,  
+
+ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+WHERE LIABILITY CANNOT BE EXCLUDED UNDER APPLICABLE LAW, OUR TOTAL AGGREGATE LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATING TO THE APP OR THESE TERMS SHALL BE LIMITED TO THE AMOUNT YOU PAID (IF ANY) FOR USE OF THE APP DURING THE SIX (6) MONTHS PRECEDING THE CLAIM.
+
+---
+
+## 10. Data Loss
+
+- You are solely responsible for maintaining backups of your contact data and any other information stored in the App.  
+- We are not responsible or liable for any loss, corruption, or deletion of data resulting from (including but not limited to) device failure, operating system issues, App updates, or uninstallation of the App.  
+- Your device’s own backup mechanisms (e.g., iCloud, Google backup) may store App data, depending on your settings.
+
+---
+
+## 11. Changes to Terms
+
+We may revise or update these Terms from time to time. When we do:
+
+- We will update the “Last Updated” date at the top of these Terms.  
+- Changes become effective when they are posted or otherwise made available in connection with the App.  
+
+Your continued use of the App after any changes to the Terms constitutes your acceptance of the revised Terms. If you do not agree to the updated Terms, you must stop using the App.
+
+---
+
+## 12. Termination
+
+We may terminate, suspend, or restrict your access to the App at any time, with or without notice, if:
+
+- You violate these Terms, or  
+- We decide to discontinue or materially modify the App.  
+
+Upon termination, the rights and licenses granted to you under these Terms will immediately cease. You may stop using the App at any time by uninstalling it from your device.
+
+---
+
+## 13. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the **State of Arizona**, United States, without regard to its conflict of law principles.  
+
+You agree that any dispute, claim, or controversy arising out of or relating to these Terms or your use of the App shall be brought exclusively in the state or federal courts located in **Maricopa County, Arizona**, and you hereby consent to the personal jurisdiction and venue of such courts.
+
+---
+
+## 14. Contact Us
+
+If you have any questions about these Terms, you can contact us at:
+
+**Hastati Ventures LLC**  
+Scottsdale, Arizona, USA  
+**Email:** [HastatiVentures@Gmail.com](mailto:HastatiVentures@Gmail.com)
