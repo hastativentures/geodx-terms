@@ -1,6 +1,6 @@
 # Geodx Contacts + — Terms of Service
 
-**Last Updated:** December 11, 2024  
+**Last Updated:** December 11, 2025  
 
 These Terms of Service (“Terms”) govern your use of the Geodx Contacts + mobile application (the “App”), provided by **Hastati Ventures LLC**, a company based in Scottsdale, Arizona, USA (“Hastati Ventures,” “we,” “us,” or “our”).
 
